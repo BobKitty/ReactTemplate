@@ -1,0 +1,11 @@
+.example {
+    color: blue;
+
+    &-child {
+        color: aqua;
+     }
+}
+
+.some {
+    color: red;
+}
